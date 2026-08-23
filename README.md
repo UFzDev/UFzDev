@@ -2,7 +2,7 @@
 
 Estudiante de Ingeniería en Sistemas y Desarrollador de Software enfocado en arquitecturas web de alto rendimiento, sistemas escalables y desarrollo de código abierto.
 
-Fundador e Ingeniero en [@Digitalandia-dev](https://github.com/Digitalandia-dev). Piloteado por Thatch.
+Fundador e Ingeniero en [@Digitalandia-dev](https://github.com/Digitalandia-dev).
 
 ---
 
