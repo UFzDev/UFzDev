@@ -45,9 +45,3 @@ Fundador e Ingeniero en [@Digitalandia-dev](https://github.com/Digitalandia-dev)
 * **Sitio Web**: [digitalandia.com](https://digitalandia.com)
 * **Organización**: [github.com/Digitalandia-dev](https://github.com/Digitalandia-dev)
 * **Contacto**: [contacto@digitalandia.com](mailto:contacto@digitalandia.com)
-
----
-
-<div align="center">
-  <sub>Uriel Flores · Desarrollado con precisión técnica.</sub>
-</div>
