@@ -1,12 +1,12 @@
 # Uriel Flores (UFzDev)
 
-Estudiante de Ingeniería en Sistemas y Desarrollador de Software enfocado en arquitecturas web de alto rendimiento, sistemas escalables y desarrollo de código abierto.
+Estudiante de Ingeniería en Sistemas y Desarrollador de Software enfocado en arquitecturas web de alto rendimiento, sistemas escalables y tecnologías de código abierto.
 
-Fundador e Ingeniero en [@Digitalandia-dev](https://github.com/Digitalandia-dev).
+Fundador e Ingeniero en [@Digitalandia-dev](https://github.com/Digitalandia-dev). Piloteado por Thatch.
 
 ---
 
-### Stack Tecnológico y Herramientas
+### Stack Tecnológico Principal
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -25,27 +25,26 @@ Fundador e Ingeniero en [@Digitalandia-dev](https://github.com/Digitalandia-dev)
 
 ---
 
-### Proyectos Principales
+### Proyectos e Iniciativas
 
-* **[Digitalandia-dev/template-bun-react](https://github.com/Digitalandia-dev/template-bun-react)**  
-  Plantilla base de producción para React 19 y Bun optimizada para lograr 100/100 en Google Lighthouse y cero CLS.
+* **[template-bun-react](https://github.com/Digitalandia-dev/template-bun-react)**  
+  Plantilla base de producción para React 19 y Bun optimizada para lograr 100/100 en Google Lighthouse y cero Cumulative Layout Shift (CLS).
 
 ---
 
-### Estadísticas de Desarrollo
+### Actividad y Estadísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UFzDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050508&title_color=ffffff&text_color=a1a1aa&icon_color=863bff" alt="Estadísticas de GitHub de UFzDev" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UFzDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=ffffff&text_color=a1a1aa" alt="Lenguajes más usados" />
+  <img src="https://streak-stats.demolab.com?user=UFzDev&theme=tokyonight&hide_border=true&background=050508&ring=863bff&fire=863bff&currStreakLabel=863bff&sideLabels=a1a1aa&sideNums=ffffff&dates=71717a" alt="GitHub Streak UFzDev" />
 </p>
 
 ---
 
-### Contacto y Canales Oficiales
+### Canales Oficiales
 
 * **Sitio Web**: [digitalandia.com](https://digitalandia.com)
 * **Organización**: [github.com/Digitalandia-dev](https://github.com/Digitalandia-dev)
-* **Correo**: [contacto@digitalandia.com](mailto:contacto@digitalandia.com)
+* **Contacto**: [contacto@digitalandia.com](mailto:contacto@digitalandia.com)
 
 ---
 
