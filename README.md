@@ -27,6 +27,8 @@ Fundador e Ingeniero en [@Digitalandia-dev](https://github.com/Digitalandia-dev)
 
 ### Proyectos e Iniciativas
 
+* **[MCloud](https://github.com/UFzDev/Mcloud)**  
+  Mod de Minecraft Fabric para compartir mundos sobre túneles Cloudflare (WSS:443). Evita CGNAT con latencia de un solo dígito y herramientas CLI.
 * **[template-bun-react](https://github.com/Digitalandia-dev/template-bun-react)**  
   Plantilla base de producción para React 19 y Bun optimizada para lograr 100/100 en Google Lighthouse y cero Cumulative Layout Shift (CLS).
 
